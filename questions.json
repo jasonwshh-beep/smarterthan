@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Math Basics",
+    "questions": [
+      {
+        "question": "How many seconds are in 5 minutes?",
+        "answer": "300"
+      },
+      {
+        "question": "What is 12 multiplied by 8?",
+        "answer": "96"
+      },
+      {
+        "question": "What is half of 150?",
+        "answer": "75"
+      },
+      {
+        "question": "How many sides does a hexagon have?",
+        "answer": "6"
+      },
+      {
+        "question": "What is 25% of 200?",
+        "answer": "50"
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "questions": [
+      {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars"
+      },
+      {
+        "question": "What gas do plants absorb from the air?",
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the study of weather called?",
+        "answer": "Meteorology"
+      },
+      {
+        "question": "How many bones are in the adult human body?",
+        "answer": "206"
+      },
+      {
+        "question": "What force keeps us on the ground?",
+        "answer": "Gravity"
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "questions": [
+      {
+        "question": "Who was the first president of the United States?",
+        "answer": "George Washington"
+      },
+      {
+        "question": "What famous ship sank in 1912?",
+        "answer": "The Titanic"
+      },
+      {
+        "question": "In what year did World War II end?",
+        "answer": "1945"
+      },
+      {
+        "question": "What ancient civilization built the pyramids of Giza?",
+        "answer": "Ancient Egyptians"
+      },
+      {
+        "question": "What wall divided Berlin until 1989?",
+        "answer": "The Berlin Wall"
+      }
+    ]
+  },
+  {
+    "name": "Language",
+    "questions": [
+      {
+        "question": "What is the opposite of 'ancient'?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What do you call a word that means the same as another word?",
+        "answer": "A synonym"
+      },
+      {
+        "question": "How many letters are in the English alphabet?",
+        "answer": "26"
+      },
+      {
+        "question": "What punctuation mark ends a question?",
+        "answer": "A question mark (?)"
+      },
+      {
+        "question": "What is the plural of 'mouse'?",
+        "answer": "Mice"
+      }
+    ]
+  },
+  {
+    "name": "Geography",
+    "questions": [
+      {
+        "question": "What is the largest ocean on Earth?",
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      },
+      {
+        "question": "On which continent is Egypt?",
+        "answer": "Africa"
+      },
+      {
+        "question": "How many continents are there?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the longest river in South America?",
+        "answer": "Amazon River"
+      }
+    ]
+  },
+  {
+    "name": "Animals",
+    "questions": [
+      {
+        "question": "What is the fastest land animal?",
+        "answer": "Cheetah"
+      },
+      {
+        "question": "What do you call a baby frog?",
+        "answer": "Tadpole"
+      },
+      {
+        "question": "How many legs does a spider have?",
+        "answer": "8"
+      },
+      {
+        "question": "What mammal can fly?",
+        "answer": "Bat"
+      },
+      {
+        "question": "What is a group of lions called?",
+        "answer": "A pride"
+      }
+    ]
+  },
+  {
+    "name": "Space",
+    "questions": [
+      {
+        "question": "What is the closest star to Earth?",
+        "answer": "The Sun"
+      },
+      {
+        "question": "How many planets are in our solar system?",
+        "answer": "8"
+      },
+      {
+        "question": "What is Earth's natural satellite?",
+        "answer": "The Moon"
+      },
+      {
+        "question": "Which planet has the most prominent ring system?",
+        "answer": "Saturn"
+      },
+      {
+        "question": "What galaxy contains our solar system?",
+        "answer": "The Milky Way"
+      }
+    ]
+  },
+  {
+    "name": "Everyday Knowledge",
+    "questions": [
+      {
+        "question": "How many hours are in two days?",
+        "answer": "48"
+      },
+      {
+        "question": "What instrument measures temperature?",
+        "answer": "Thermometer"
+      },
+      {
+        "question": "What do bees make?",
+        "answer": "Honey"
+      },
+      {
+        "question": "How many months have 31 days?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the main ingredient in bread?",
+        "answer": "Flour"
+      }
+    ]
+  },
+  {
+    "name": "Literature & Arts",
+    "questions": [
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare"
+      },
+      {
+        "question": "What do you call the person who writes a book?",
+        "answer": "An author"
+      },
+      {
+        "question": "What are the three primary colors in traditional painting?",
+        "answer": "Red, yellow and blue"
+      },
+      {
+        "question": "What is a book of maps called?",
+        "answer": "An atlas"
+      },
+      {
+        "question": "What musical instrument has black and white keys?",
+        "answer": "Piano"
+      }
+    ]
+  },
+  {
+    "name": "Final Challenge",
+    "questions": [
+      {
+        "question": "What is the square root of 144?",
+        "answer": "12"
+      },
+      {
+        "question": "What type of scientist studies fossils?",
+        "answer": "Paleontologist"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answer": "Au"
+      },
+      {
+        "question": "How many degrees are in a right angle?",
+        "answer": "90"
+      },
+      {
+        "question": "What is the process by which plants make food using sunlight?",
+        "answer": "Photosynthesis"
+      }
+    ]
+  },
+  {
+    "name": "Fractions",
+    "questions": [
+      {
+        "question": "What is half of one quarter?",
+        "answer": "One eighth (1/8)"
+      },
+      {
+        "question": "What is 3/4 of 20?",
+        "answer": "15"
+      },
+      {
+        "question": "What is 1/2 plus 1/4?",
+        "answer": "3/4"
+      },
+      {
+        "question": "Which is larger: 2/3 or 1/2?",
+        "answer": "2/3"
+      },
+      {
+        "question": "What is 6/8 simplified?",
+        "answer": "3/4"
+      }
+    ]
+  },
+  {
+    "name": "Human Body",
+    "questions": [
+      {
+        "question": "What organ pumps blood through your body?",
+        "answer": "The heart"
+      },
+      {
+        "question": "Which organ helps you breathe?",
+        "answer": "The lungs"
+      },
+      {
+        "question": "What is the largest organ of the human body?",
+        "answer": "The skin"
+      },
+      {
+        "question": "What part of the eye controls how much light enters?",
+        "answer": "The iris"
+      },
+      {
+        "question": "What do red blood cells carry?",
+        "answer": "Oxygen"
+      }
+    ]
+  },
+  {
+    "name": "Inventions",
+    "questions": [
+      {
+        "question": "Who is widely credited with inventing the telephone?",
+        "answer": "Alexander Graham Bell"
+      },
+      {
+        "question": "What invention is used to see tiny objects?",
+        "answer": "Microscope"
+      },
+      {
+        "question": "What does a compass help you find?",
+        "answer": "Direction"
+      },
+      {
+        "question": "What device converts sunlight into electricity?",
+        "answer": "Solar panel"
+      },
+      {
+        "question": "What invention uses lenses to view distant stars?",
+        "answer": "Telescope"
+      }
+    ]
+  },
+  {
+    "name": "Sports",
+    "questions": [
+      {
+        "question": "How many players are on a soccer team on the field?",
+        "answer": "11"
+      },
+      {
+        "question": "What sport uses a puck?",
+        "answer": "Ice hockey"
+      },
+      {
+        "question": "How many points is a touchdown worth in American football?",
+        "answer": "6"
+      },
+      {
+        "question": "What sport is played at Wimbledon?",
+        "answer": "Tennis"
+      },
+      {
+        "question": "How many bases are on a baseball field?",
+        "answer": "4"
+      }
+    ]
+  },
+  {
+    "name": "Weather",
+    "questions": [
+      {
+        "question": "What instrument measures rainfall?",
+        "answer": "Rain gauge"
+      },
+      {
+        "question": "What do we call frozen rain that falls as balls of ice?",
+        "answer": "Hail"
+      },
+      {
+        "question": "What cloud type is associated with thunderstorms?",
+        "answer": "Cumulonimbus"
+      },
+      {
+        "question": "What is a long period with little rain called?",
+        "answer": "Drought"
+      },
+      {
+        "question": "At what temperature does water freeze in Celsius?",
+        "answer": "0°C"
+      }
+    ]
+  },
+  {
+    "name": "Oceans",
+    "questions": [
+      {
+        "question": "What is the largest animal alive today?",
+        "answer": "Blue whale"
+      },
+      {
+        "question": "What is the name for the rise and fall of sea level?",
+        "answer": "Tides"
+      },
+      {
+        "question": "What sea creature has eight arms?",
+        "answer": "Octopus"
+      },
+      {
+        "question": "What is the deepest ocean trench called?",
+        "answer": "Mariana Trench"
+      },
+      {
+        "question": "What percentage of Earth's surface is covered by water, approximately?",
+        "answer": "71%"
+      }
+    ]
+  },
+  {
+    "name": "Geometry",
+    "questions": [
+      {
+        "question": "How many degrees are in a triangle's angles altogether?",
+        "answer": "180°"
+      },
+      {
+        "question": "What is a shape with eight sides called?",
+        "answer": "Octagon"
+      },
+      {
+        "question": "How many faces does a cube have?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the perimeter of a square with sides of 5 cm?",
+        "answer": "20 cm"
+      },
+      {
+        "question": "What is the name for a line from the center of a circle to its edge?",
+        "answer": "Radius"
+      }
+    ]
+  },
+  {
+    "name": "Computers",
+    "questions": [
+      {
+        "question": "What does CPU stand for?",
+        "answer": "Central Processing Unit"
+      },
+      {
+        "question": "What device is used to type letters into a computer?",
+        "answer": "Keyboard"
+      },
+      {
+        "question": "What does WWW stand for?",
+        "answer": "World Wide Web"
+      },
+      {
+        "question": "What is the name for a computer's temporary working memory?",
+        "answer": "RAM"
+      },
+      {
+        "question": "What symbol is commonly used in email addresses?",
+        "answer": "@"
+      }
+    ]
+  },
+  {
+    "name": "Food & Cooking",
+    "questions": [
+      {
+        "question": "What fruit is dried to make raisins?",
+        "answer": "Grapes"
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "answer": "Avocado"
+      },
+      {
+        "question": "What grain is used to make traditional risotto?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What do you call water at its boiling point turning into gas?",
+        "answer": "Steam"
+      },
+      {
+        "question": "What kitchen tool is used to measure food temperature?",
+        "answer": "Food thermometer"
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "questions": [
+      {
+        "question": "How many strings does a standard guitar usually have?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the symbol # called in music?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What instrument does a drummer play?",
+        "answer": "Drums"
+      },
+      {
+        "question": "How many beats does a whole note have in 4/4 time?",
+        "answer": "4"
+      },
+      {
+        "question": "What do you call the speed of a piece of music?",
+        "answer": "Tempo"
+      }
+    ]
+  },
+  {
+    "name": "Plants & Nature",
+    "questions": [
+      {
+        "question": "What part of a plant usually absorbs water from soil?",
+        "answer": "Roots"
+      },
+      {
+        "question": "What is the green pigment in plants called?",
+        "answer": "Chlorophyll"
+      },
+      {
+        "question": "What is the process of a seed beginning to grow called?",
+        "answer": "Germination"
+      },
+      {
+        "question": "What part of a flower develops into a fruit after fertilization?",
+        "answer": "Ovary"
+      },
+      {
+        "question": "What do trees absorb from the atmosphere for photosynthesis?",
+        "answer": "Carbon dioxide"
+      }
+    ]
+  },
+  {
+    "name": "World Landmarks",
+    "questions": [
+      {
+        "question": "In what city is the Eiffel Tower?",
+        "answer": "Paris"
+      },
+      {
+        "question": "In which country is the Taj Mahal?",
+        "answer": "India"
+      },
+      {
+        "question": "What country is home to the Colosseum?",
+        "answer": "Italy"
+      },
+      {
+        "question": "In which city is the Statue of Liberty?",
+        "answer": "New York City"
+      },
+      {
+        "question": "In which country is Machu Picchu?",
+        "answer": "Peru"
+      }
+    ]
+  },
+  {
+    "name": "Time & Measurement",
+    "questions": [
+      {
+        "question": "How many minutes are in 3 hours?",
+        "answer": "180"
+      },
+      {
+        "question": "How many centimeters are in a meter?",
+        "answer": "100"
+      },
+      {
+        "question": "How many days are in a leap year?",
+        "answer": "366"
+      },
+      {
+        "question": "How many millimeters are in a centimeter?",
+        "answer": "10"
+      },
+      {
+        "question": "How many years are in a decade?",
+        "answer": "10"
+      }
+    ]
+  },
+  {
+    "name": "Grammar",
+    "questions": [
+      {
+        "question": "What is a noun?",
+        "answer": "A person, place, thing, or idea"
+      },
+      {
+        "question": "What is the past tense of 'run'?",
+        "answer": "Ran"
+      },
+      {
+        "question": "What is an adjective used to describe?",
+        "answer": "A noun or pronoun"
+      },
+      {
+        "question": "Which word is a verb: jump, blue, or table?",
+        "answer": "Jump"
+      },
+      {
+        "question": "What do we call a word that sounds the same as another but has a different meaning?",
+        "answer": "Homophone"
+      }
+    ]
+  },
+  {
+    "name": "Mixed Brain Teasers",
+    "questions": [
+      {
+        "question": "If you have 3 apples and give away 1, how many remain?",
+        "answer": "2"
+      },
+      {
+        "question": "What number comes next: 2, 4, 8, 16, ...?",
+        "answer": "32"
+      },
+      {
+        "question": "How many sides do two separate triangles have in total?",
+        "answer": "6"
+      },
+      {
+        "question": "What is 9 squared?",
+        "answer": "81"
+      },
+      {
+        "question": "What is the only even prime number?",
+        "answer": "2"
+      }
+    ]
+  }
+]
